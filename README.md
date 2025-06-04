@@ -3,7 +3,7 @@
 class AngelJanvier01{
   constructor(name, age, sex, hobbie, work, gitHubStatus, stack){
     this.name = "Angel Janvier Gonzalez Delgado"
-    this.age = 21
+    this.age = 22
     this.sex = "Male"
     this.hobbie = " "
     this.work = " "
