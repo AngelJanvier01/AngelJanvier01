@@ -71,19 +71,6 @@ Currently interested in:
 - LinkedIn: www.linkedin.com/in/angeljanvier
 - Email: gonzalezdelgadoangeljanvier@gmail.com
 
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=AngelJanvier01&theme=tokyonight&hide_border=true&background=0D1117" />
-</p>
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=AngelJanvier01&theme=onestar&no-frame=true&no-bg=true" />
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=AngelJanvier01&theme=tokyonight&hide_border=true&background=0D1117&ring=7156F6&fire=7156F6&currStreakLabel=7156F6" />
-</p>
-
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=AngelJanvier01&theme=dark&hide_border=true" />
 </p>
