@@ -1,19 +1,72 @@
-### Hi there 👋
-```javascript
-class AngelJanvier01{
-  constructor(name, age, sex, hobbie, work, gitHubStatus, stack){
-    this.name = "Angel Janvier Gonzalez Delgado"
-    this.age = 22
-    this.sex = "Male"
-    this.hobbie = " "
-    this.work = " "
-    this.githubStatus = " "
-    this.stack = [html, css, python, Swift, Java]
-  }
-}
-```
+<h1 align="center">Ángel Janvier González Delgado</h1>
+<p align="center">
+  Software Engineer | IT Infrastructure | Systems Architecture
+</p>
 
-<a href="https://www.instagram.com/jaanviier/">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=AngelJanvier01">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AngelJanvier01">
-</a>
+---
+
+## 🧠 About Me
+
+Engineer focused on building scalable systems, secure infrastructure and efficient architectures.
+
+I work at the intersection of:
+- Software Engineering
+- IT Infrastructure
+- Network Architecture
+- Business-Oriented Technology
+
+Currently interested in:
+- Distributed systems
+- Cybersecurity
+- DevOps practices
+- Enterprise infrastructure design
+
+---
+
+## 🚀 Tech Stack
+
+### Languages
+- Java
+- Python
+- JavaScript
+- SQL
+- Swift
+- PHP
+
+### Infrastructure
+- Linux Servers (Ubuntu)
+- RAID configurations
+- Network design (VLAN, PoE, routing)
+- On-premise & hybrid cloud setups
+
+### Tools
+- Docker
+- Git
+- Node.js
+- MySQL / MariaDB
+- Oracle
+
+---
+
+## 🏗 Current Focus
+
+- Designing scalable internal systems
+- Infrastructure automation
+- Building enterprise-ready solutions
+- Improving software quality processes
+
+---
+
+## 📊 Philosophy
+
+> Build systems that scale without depending on people.
+> Automate what repeats.
+> Document what matters.
+> Design before coding.
+
+---
+
+## 📫 Contact
+
+- LinkedIn: www.linkedin.com/in/angeljanvier
+- Email: gonzalezdelgadoangeljanvier@gmail.com
