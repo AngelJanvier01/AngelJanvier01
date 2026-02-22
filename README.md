@@ -1,4 +1,4 @@
-<h1 align="center">Ángel Janvier González Delgado</h1>
+<h1 align="center">Angel Janvier Gonzalez Delgado</h1>
 <p align="center">
   Software Engineer | IT Infrastructure | Systems Architecture
 </p>
